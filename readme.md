@@ -23,3 +23,10 @@ A Machine Learning-based web app built using **Streamlit** that predicts the ris
 ---
 
 ## 📂 Project Structure
+.
+├── app.py
+├── KNN_heart_model.pkl
+├── scaler_heart_model.pkl
+├── columns_heart_model.pkl
+├── requirements.txt
+└── README.md
